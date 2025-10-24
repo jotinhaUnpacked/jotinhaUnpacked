@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm a computer science and high school student, currently focusing in learning and practicing HTML, CSS, C, C++, Java, Arduino projects and Python. I'm also training for olympiads like OBR and OBI.
 
+## Contacts:
+![https://instagram.com/joao_pedro.zip](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white) 
+## Tecnologies:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-e0901a?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html-f06529?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-00599C?style=for-the-badge&logo=css&logoColor=white)
 <!--
 **jotinhaUnpacked/jotinhaUnpacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
