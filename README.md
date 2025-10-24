@@ -14,7 +14,7 @@ Currently, I'm focusing on HTML, CSS, C, C++, Java, Python, and Arduino projects
   <a href="https://www.instagram.com/joao_pedro.zip/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> 
-  <a href="www.linkedin.com/in/joão-pedro-m-de-araujo-computer">
+  <a href="https://www.linkedin.com/in/joão-pedro-m-de-araujo-computer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
   <a href="mailto:joaopedromamateus755@gmail.com">
